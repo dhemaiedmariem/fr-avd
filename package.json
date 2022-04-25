@@ -1,0 +1,12 @@
+{
+    "name": "framework-ard",
+    "version": "",
+    
+    
+  
+    "system": [
+      "windows",
+      "windows_amd64",
+      "windows_x86"
+    ]
+}    
